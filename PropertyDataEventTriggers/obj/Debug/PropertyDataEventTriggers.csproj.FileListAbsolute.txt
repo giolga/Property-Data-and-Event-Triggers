@@ -1,0 +1,15 @@
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\bin\Debug\PropertyDataEventTriggers.exe.config
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\bin\Debug\PropertyDataEventTriggers.exe
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\bin\Debug\PropertyDataEventTriggers.pdb
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\App.g.cs
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers_MarkupCompile.cache
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers_MarkupCompile.lref
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\MainWindow.baml
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.g.resources
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.Properties.Resources.resources
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.csproj.GenerateResource.cache
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.exe
+C:\Users\Mikey\Desktop\C#\PropertyDataEventTriggers\PropertyDataEventTriggers\obj\Debug\PropertyDataEventTriggers.pdb
